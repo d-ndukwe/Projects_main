@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../divine"
+		},
+		{
+			"path": "../IT TRAINING"
+		},
+		{
+			"path": "../WEB DESIGN"
+		},
+		{
+			"path": "../WEBSITE WORK"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "IT TRAINING"
+	}
+}
